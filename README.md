@@ -20,8 +20,8 @@ To write a python program for creating File Transfer using TCP Sockets Links.
 
 ## PROGRAM :
 ## client:
-## Developed : MALARVIZHI G
-## Reg no : 212222040096
+## Developed : YOGESH B
+## Reg no : 212221220062
 
 import socket
 
